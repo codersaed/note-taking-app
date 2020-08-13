@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.bg {
+    box-shadow: 5px 5px 10px gainsboro;
+}
+.title {
+    border: 3px solid #28A745;
+}
